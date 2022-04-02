@@ -1,9 +1,9 @@
 ### Oiie, Sou o Leo estudante e amante de tecnologia, conheça um pouco mais de mim, meus projetos e algoritmos.
 <hr>
 
-- 🧑‍💻 Sou aprediz na Jequiti Cosméticos
-- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
-- 😃 Busco uma oportunidade no mercado como programador ou desenvolvedor etc.
+- 🧑‍💻 Aprendiz na Jequiti Cosméticos
+- 📚 Atualmente cursando Análise e Desenvolvimento de Sistemas
+- 😃 Busco oportunidade no mercado como programador ou desenvolvedor etc.
 
 <br>
 
