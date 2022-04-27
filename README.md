@@ -1,4 +1,4 @@
-### Oiie, Sou o Leo estudante e amante de tecnologia, conheça um pouco mais de mim, meus projetos e algoritmos.
+### Oiie me chamo Leonardo, sou estudante e amante de tecnologia, conheça um pouco mais de mim, meus projetos e algoritmos.
 <hr>
 
 - 🧑‍💻 Aprendiz na Jequiti Cosméticos
